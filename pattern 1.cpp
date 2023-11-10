@@ -1,11 +1,11 @@
 #include<stdio.h>
-main()
+ intmain()
 {
-	int row,n,column;
+	int rows,n,column;
 	scanf("enter value",&n);
-	for(row=1;row<=n;row++)
+	for(row=1;rows<=n;rows++)
 	{
-		for(column=1;column<=row;column++)
+		for(column=1;column<=rows;column++)
 		printf("*");
 		
 	}

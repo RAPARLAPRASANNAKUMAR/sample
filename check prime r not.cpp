@@ -2,7 +2,7 @@
 main()
 {
 	 int n, i, fact=0;
-	 printf("enter any number");
+	 printf("enter any number of your choice");
 	 scanf("%d",&n);
 	 for(i=1;i<=n;i++)
 	 {
